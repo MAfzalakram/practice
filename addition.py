@@ -37,8 +37,9 @@ with col2:
     st.header("Columns 2")
     if st.button("Column 2"):
         st.write("Column 2 button is clicked")
-        
 with col3:
     st.header("Columns 3")
     if st.button("Column 3"):
         st.write("Column 3 button is clicked")
+        
+print("hello world")
